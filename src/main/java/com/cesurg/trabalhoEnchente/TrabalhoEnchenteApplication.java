@@ -1,4 +1,4 @@
-package com.cesurg.trabalho_enchente;
+package com.cesurg.trabalhoEnchente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
