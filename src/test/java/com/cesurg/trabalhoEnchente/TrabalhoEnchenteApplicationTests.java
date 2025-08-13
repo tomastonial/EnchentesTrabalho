@@ -1,4 +1,4 @@
-package com.cesurg.trabalho_enchente;
+package com.cesurg.trabalhoEnchente;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

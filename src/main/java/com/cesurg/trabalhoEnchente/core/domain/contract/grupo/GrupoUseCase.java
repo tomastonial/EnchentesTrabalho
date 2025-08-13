@@ -1,0 +1,13 @@
+package com.cesurg.trabalhoEnchente.core.domain.contract.grupo;
+
+import com.cesurg.trabalhoEnchente.core.domain.entity.Grupo;
+
+import java.util.List;
+
+public interface GrupoUseCase {
+    public void create(Grupo grupo);
+    public void update(int id,Grupo grupo);
+    public void delete(int id);
+    public Grupo findById(int id);
+    public List<Grupo> findAll();
+}
